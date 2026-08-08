@@ -1,0 +1,18 @@
+# Java
+*.class
+target/
+out/
+
+# SQLite database - local runtime data
+database/*.db
+database/*.db-shm
+database/*.db-wal
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
